@@ -1,4 +1,4 @@
-# Hello, I'm Tinipik!
+# Hello there! I'm Quentin
 
 👨‍💻️ Software Engineer - I speak JavaScript/TypeScript, C#, Lua and Go  
 🔥 DevOps is Life  
